@@ -21,7 +21,7 @@ if (rand == 0) {
   }
 
 if (username == "&quot;&quot;") {
-    username = "名無し"
+    username = "名無し";
     }
 
   document.getElementById("result").innerHTML = userresult;
