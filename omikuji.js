@@ -20,7 +20,7 @@ if (rand == 0) {
     userresult = "凶";
   }
 
-if (username == "&quot;&quot;") {
+if (username == "") {
     username = "名無し";
     }
 
